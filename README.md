@@ -158,6 +158,10 @@ Calls the `/scan` endpoint directly. Tests only Layers 1 and 2 (sanitizer
 Ollama. This is the fastest way to grade the firewall's detection accuracy 
 without installing anything beyond the Python requirements.
 
+![Blocked by sanitizer](docs/images/screenshot1.png)
+
+![Blocked by sanitizer](docs/images/screenshot2.png)
+
 ### Running either demo
 
 ```bash
