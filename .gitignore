@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Trained model (regenerate via classifier.py)
+src/classifier-model/
+
+# Training checkpoints (regenerate via classifier.py)
+src/classifier-output/
+
+src/test.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+archives/
+
+tests/

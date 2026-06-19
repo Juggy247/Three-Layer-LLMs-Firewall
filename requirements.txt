@@ -1,0 +1,22 @@
+# Core ML / NLP
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.19.0
+sentence-transformers>=2.7.0
+ 
+# Data processing
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+ 
+# Backend API
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.6.0
+ 
+# Local LLM
+ollama>=0.2.0
+ 
+# Note: requires a separate Ollama installation (https://ollama.com)
+# and the llama3.2 model pulled locally via: ollama pull llama3.2
+ 
