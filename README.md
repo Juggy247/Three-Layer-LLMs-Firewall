@@ -199,3 +199,9 @@ See the full report for detailed per-layer limitations and the frontier lab comp
 - Taori et al. (2023) — Stanford Alpaca
 - Anthropic Claude Opus 4 Model Card
 - OpenAI GPT-4 System Card
+
+## Contributors
+
+**Main contributors**
+- [Thu Htoo Zaw](https://github.com/THEIR-USERNAME)
+- [Thiri Toe Toe Zin](https://github.com/THEIR-USERNAME)
